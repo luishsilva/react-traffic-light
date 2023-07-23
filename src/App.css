@@ -7,6 +7,7 @@
 }
 
 .traffic-light-wrapper {
+  background-color: black;
  border: 1px solid black;
  border-radius: 10px;
  max-width: 300px;
@@ -25,6 +26,7 @@
   border: 0.5px solid black;
   font-weight: 800;
   text-transform: uppercase;
+  background-color: #FFF;
 }
 
 .light p {
